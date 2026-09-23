@@ -1,0 +1,24 @@
+section.special{
+   background-color: #ffeaea;
+   margin-left: 50px;
+   padding-top: 15px;
+   padding-left: 15px;
+   border-left: 5px solid #f0a4a4;
+}
+
+section.highlight{
+    background-color: #7eafac;
+    margin-right: 10px;
+    border-radius: 20px;
+}
+
+section.special p {
+   color: #6B4226;
+   font-size: 1.05em;
+}
+
+section.highlight > h3 {
+   font-style: italic;
+   font-weight: bold;
+   color: #2F5D43;
+}
